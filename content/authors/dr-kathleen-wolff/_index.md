@@ -2,9 +2,7 @@
 title: Dr Kathleen Wolff
 role: Vice-chair
 avatar_filename: kat_edited_edited.jpg
-organizations:
-  - name: East Midlands School of Anaesthesia
-    url: ""
+organizations: []
 superuser: false
 authors:
   - 吳恩達
@@ -20,4 +18,4 @@ email: ""
 user_groups:
   - Committee
 ---
-\[Kat to fill in]
+ST6 in anaesthesia, Leicester-based \[Kat to fill in]
