@@ -1,6 +1,6 @@
 ---
 title: Chesterfield Royal Hospital
-avatar_filename: avatar
+avatar_filename: ""
 social: []
 superuser: false
 user_groups:
