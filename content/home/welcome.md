@@ -12,5 +12,7 @@ design:
   columns: "1"
 hero_media: raft-map.jpg
 ---
-![logo](/media/mercat-logo.jpg)
+
+{{< figure src="mercat-logo.jpg" caption="MERCAT logo" >}}
+
 We are Midlands East Research by Critical Care and Anaesthetic Trainees (MERCAT), the [Trainee Research Network](https://www.raftrainees.org/) for the [East Midlands School of Anaesthesia](https://emanaesthesia.org.uk/). We support, coordinate, and run trainee-driven local, region, and national projects in anaesthesia and intensive care.
