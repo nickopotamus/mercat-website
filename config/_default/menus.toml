@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Committee"
   url = "people"
   weight = 30
 
@@ -24,11 +24,11 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "Research output"
   url = "publication"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Contact us"
   url = "contact"
   weight = 60
