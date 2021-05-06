@@ -1,6 +1,6 @@
 ---
 title: Dr John Williams
-role: ""
+role: North consultant lead
 avatar_filename: avatar
 social: []
 superuser: false
