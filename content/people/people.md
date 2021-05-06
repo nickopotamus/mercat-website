@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the team behind MERCAT
+title: MERCAT committee and local leads
 subtitle:
 
 content:
@@ -20,7 +20,7 @@ content:
   - Trainee contacts
   - Consultant contacts
 design:
-  show_interests: true
+  show_interests: false
   show_role: true
   show_social: true
 ---
