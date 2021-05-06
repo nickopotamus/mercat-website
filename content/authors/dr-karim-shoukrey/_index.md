@@ -1,6 +1,6 @@
 ---
 title: Dr Karim Shoukrey
-role: ""
+role: South consultant lead
 avatar_filename: avatar
 social: []
 superuser: false
