@@ -21,7 +21,8 @@ education:
   courses: []
 email: ""
 superuser: false
-user_groups: []
+user_groups:
+  - Committee
 highlight_name: false
 ---
 \[Brett can write his own biography here]
