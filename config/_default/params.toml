@@ -37,7 +37,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Organization"
+site_type = "MedicalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Midlands (East) Research and Audit by Critical Care and Anaesthetics Trainees"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "We are MERCAT, the Trainee Research Network for the East Midlands region. We come under the umbrella of RAFT and through them we are able to link to all the other TRNs nationally."
 
 ############################
 ## Site Features
@@ -56,13 +56,13 @@ description = "My research group description."
 
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
-highlight = false
+highlight = true
 # highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -84,31 +84,31 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "mercat@emanaesthesia.org.uk"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "East Midlands School of Anaesthesia", city = "Health Education East Midlands, 1 Westbridge Close", region = "Leicester", postcode = "LE3 5DR", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "52.63317", longitude = "-1.14249"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["9:00 to 17:00 Monday to Friday"]
+office_hours = [""]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/mercat_eastmids"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -123,7 +123,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "mercat_eastmids"
 
 ############################
 ## Regional Settings
@@ -136,7 +136,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
