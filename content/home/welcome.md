@@ -1,20 +1,17 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
-hero_media: welcome.jpg
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
 advanced:
-  css_style:
-  css_class:
+  ? css_style
+  ? css_class
+widget: hero
+widget_id: mercat-welcome
+headless: true
+weight: 10
+title: Welcome to MERCAT!
+subtitle: ""
+design:
+  columns: "1"
+hero_media: welcome.jpg
 ---
+We are MERCAT (Midlands East Research by Critical Care and Anaesthetic Trainees), the Trainee Research Network (TRN) for the East Midlands region. We help coordinate and run local, region, and national projects in anaesthesia and intensive care.
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+As a member of [RAFT](https://www.raftrainees.org/) ([Research & Audit Federation of Trainees](https://www.raftrainees.org/)) we are able to link to all the other TRNs nationally to run national projects in hospitals across the East Midlands.
