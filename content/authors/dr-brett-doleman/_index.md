@@ -1,7 +1,6 @@
 ---
 title: Dr Brett Doleman
 role: Chair
-#avatar_filename: brett.jpg
 bio: Brett is an NIHR Academic Clinical Fellow in Anaesthesia, based in the
   North of the region
 interests: []

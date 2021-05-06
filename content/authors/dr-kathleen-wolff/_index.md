@@ -1,7 +1,6 @@
 ---
 title: Dr Kathleen Wolff
 role: Vice-chair
-avatar_filename: kat.jpg
 organizations: []
 superuser: false
 bio: ST6 in anaesthesia, Leicester-based
