@@ -1,5 +1,5 @@
 ---
-title: Derby Teaching Hospitals
+title: University Hospitals of Derby and Burton
 avatar_filename: ""
 social: []
 superuser: false
