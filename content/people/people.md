@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: MERCAT committee and local leads
-subtitle:
+subtitle: Here you can contact any member of the committee directly, or one of our consultant leads at a hospital around the region.
 
 content:
   # Choose which groups/teams of users to display.
