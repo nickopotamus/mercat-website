@@ -12,10 +12,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BrettDoleman
-organizations:
-  - name: East Midlands School of Anaesthesia
-    url: ""
-  - name: University of Nottingham
+organizations: []
 education:
   courses: []
 email: ""
