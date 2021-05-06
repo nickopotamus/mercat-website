@@ -31,11 +31,7 @@ social:
     link: https://nickopotamus.co.uk
     icon_pack: fas
     icon: home
-organizations:
-  - name: East Midlands School of Anaesthesia
-  - name: Nottingham University Hospitals NHS Trust
-  - name: Usher Institute, University of Edinburgh
-  - name: East Midlands Critical Care Network
+organizations: []
 superuser: false
 user_groups:
   - Committee
