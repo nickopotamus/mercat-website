@@ -1,7 +1,7 @@
 ---
 title: PIM-COVID
 subtitle: Psychological IMpact of COVID-19
-date: 2021-05-06T18:45:11.435Z
+date: 2020-10-27T18:45:11.435Z
 draft: false
 featured: false
 image:
@@ -13,4 +13,4 @@ image:
 
 ![study outline](study_outline.jpg)
 
-If you'd like to get involved, [contact Nick](/author/dr-nick-plummer/) for more information, and either join the team at your hospital or (even better) sign your Trust up. 
+If you'd like to get involved, [contact Nick](/author/dr-nick-plummer/) for more information, and either join the team at your hospital or (even better) sign your Trust up.
