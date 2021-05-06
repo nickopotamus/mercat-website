@@ -1,8 +1,8 @@
 ---
 title: Dr Nick Plummer
 role: ICU Lead
-bio: Nick is an ST6 dual trainee in Nottingham, and currently a research fellow in
-  critical care at NUH
+bio: Nick is an ST6 dual trainee in Nottingham, and currently a research fellow
+  in critical care at NUH
 interests: []
 social:
   - display:
@@ -37,4 +37,4 @@ user_groups:
 ---
 Nick is an ST6 dual trainee in Nottingham, and currently a research fellow in critical care at NUH.
 
-He has clinical interests in management of brain injuries and transfer medicine, and research experience in data science and machine learning, Bayesian statistics, and grass-roots trainee research.
+He has clinical interests in management of brain injuries and transfer medicine, and research experience in data science and machine learning, Bayesian statistics, and grass-roots trainee research. Nick has a special interest in applying qualitative research methdology to quality improvement projects, and is always happy to help with any {{< icon name="r-project" pack="fab" >}} [R](https://www.r-project.org/) or {{< icon name="python" pack="fab" >}} [Python](https://www.python.org/) related problems. 
