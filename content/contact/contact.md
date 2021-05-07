@@ -28,12 +28,10 @@ content:
 design:
   columns: '1'
 ---
-Our mission is to conduct high quality, trainee-led, multi-centred research and audit across the East Midlands deanery for the benefit of patients and their future care.
+Our mission is to conduct high quality, trainee-led, multi-centred research and audit across the East Midlands deanery for the benefit of patients and their future care. We aim to:
+* Establish a regional network of anaesthetic and critical care trainees who conduct multi-centre research and audit with a high potential for making an impact.
+* Allow trainees to continue their involvement in research and audit projects as they migrate around the deanery.
+* Provide training in research for the educational benefit of MERCAT members.
+* Attract national funding for research and audit work.
 
-Aims:
-* To establish a regional network of anaesthetic and critical care trainees who conduct multi-centre research and audit with a high potential for making an impact.
-* To allow trainees to continue their involvement in research and audit projects as they migrate around the deanery.
-* To provide training in research for the educational benefit of MERCAT members.
-* To attract national funding for research and audit work.
-
-As a trainee-run, trainee-driven group, we'd love to here from trainees in the East Midlands who've got [project ideas](/project/) that we can help support and develop, or bigger plans for region-wide (or even greater aspirations!) that need some help getting off the ground.
+As a trainee-run, trainee-driven group, we'd love to hear from trainees in the East Midlands who've got [project ideas](/project/) that we can help support and develop, have bigger plans for region-wide (or even greater aspirations!) that need some help getting off the ground, or just want to keep up to date with what's going on. Send us an email or use the form below, or follow us on [Facebook](https://www.facebook.com/groups/935093086576938) or [Twitter](https://twitter.com/mercat_eastmids).
