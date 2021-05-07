@@ -1,8 +1,12 @@
 ---
 title: MERCAT Research Day 2021
 
-summary: After a COVID delay, we will be hosting another EMSA-wide research day over Teams. Exact date and time TBC.
+event: EMSA teaching
 
+location: MS Teams
+
+summary: EMSA teaching session for all grades, spending the day on research and QI methdology and project development.
+abstract: After a COVID delay, we will be hosting another EMSA-wide research day over Teams. Exact date and time TBC.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-11-01T13:00:00Z"
