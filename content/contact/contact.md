@@ -9,13 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contact MERCAT
 subtitle:
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -23,10 +23,17 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'
 ---
+Our mission is to conduct high quality, trainee-led, multi-centred research and audit across the East Midlands deanery for the benefit of patients and their future care.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Aims:
+* To establish a regional network of anaesthetic and critical care trainees who conduct multi-centre research and audit with a high potential for making an impact.
+* To allow trainees to continue their involvement in research and audit projects as they migrate around the deanery.
+* To provide training in research for the educational benefit of MERCAT members.
+* To attract national funding for research and audit work.
+
+As a trainee-run, trainee-driven group, we'd love to here from trainees in the East Midlands who've got [project ideas](/project/) that we can help support and develop, or bigger plans for region-wide (or even greater aspirations!) that need some help getting off the ground.
